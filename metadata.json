@@ -1,0 +1,6 @@
+{
+  "name": "CV Rewriter & Job Matcher",
+  "description": "Privacy-first CV tailoring and skill matcher with automated PII guardrails, regional compliance standards, and zero-data retention.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
