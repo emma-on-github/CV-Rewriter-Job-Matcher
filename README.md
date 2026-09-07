@@ -1,2 +1,2 @@
-CV-Rewriter-Job-Matcher app
-Tailor your CV for any job without compromising personal privacy
+- CV-Rewriter-Job-Matcher app 
+- Tailor your CV for any job without compromising personal privacy
